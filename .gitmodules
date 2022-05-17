@@ -1,0 +1,6 @@
+[submodule "xzmjx"]
+	path = xzmjx
+	url = https://github.com/Zhang405/xzmjx.git
+[submodule "submodule/xzmjx"]
+	path = submodule/xzmjx
+	url = https://github.com/Zhang405/xzmjx.git
